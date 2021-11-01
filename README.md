@@ -35,7 +35,7 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/fadildwf/DaisyXmusic
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
@@ -139,4 +139,4 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
  - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
+## Made with ♥️ by [TeamDaisyX](https://github.com/fadildwf)
